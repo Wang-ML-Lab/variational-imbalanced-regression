@@ -1,6 +1,6 @@
-# variational-imbalanced-regression
+# Variational Imbalanced Regression
 
-This is an uncleaned version. It will be further cleaned later.
+This is an preview version. Stay tuned for the official version.
 
 The pretrained model and training log is available at [here](https://drive.google.com/drive/folders/1bbdzbvXJVgkIGe1AbsH9VEm0Uvkqp67R?usp=sharing).
 
